@@ -1,0 +1,136 @@
+body, div {
+  margin: 0;
+  padding: 0;
+}
+.text{
+  text-align: center;
+  color: #FFF;
+
+text-align: center;
+font-family: Merriweather;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+  
+}
+.cover-photo{
+  margin: auto;
+  width: 1320px;
+  height: 600px;
+  background-image: url(B9A1-New-Year-New-Mission/resources/Banner\ Image.png);
+  background-size: cover;
+  background-position: center;
+  flex-shrink: 0;
+  
+}
+header .cover-photo .text{
+  box-sizing: border-box;
+  
+  background: linear-gradient(180deg, #070211 -0%, rgba(7, 2, 17, 0) 100%);
+}
+header >.cover-photo >.text >#pf{
+  color: #FFF;
+  text-align: center;
+  font-family: Merriweather;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 127px;
+
+
+}
+header >.cover-photo >.text >#ps{
+  
+  color: #FFF;
+  text-align: center;
+  font-family: Merriweather;
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 95px; /* 131.944% */
+  width: 632px;
+  padding-left: 373px;
+  margin: 0;
+}
+
+.off {
+  color: #F00;
+  text-align: center;
+  font-family: Inter;
+  font-size: 88px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.off .offer{
+  margin-bottom: 30px;
+}
+.off .holiday{
+  color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin-bottom: 20px;
+}
+.off .all{
+  color: #070211;
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-top: 8px;
+}
+.new-img{
+  margin: auto;
+  width: 802.9px;
+  height: 500px;
+  flex-shrink: 0;
+  background-position: center;
+  margin-bottom: 50px;
+
+}
+.para{
+  margin: 0rem 25.81rem 12rem 25.9rem;
+  width: calc(100% - 51.71rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.middle-photo{
+  margin: auto;
+  width: 1320px;
+  height: 600px;
+  background-image: url(B9A1-New-Year-New-Mission/resources/Vectorrr.png);
+  background-size: cover;
+  background-position: center;
+  flex-shrink: 0;
+}
+.middle-photo .welcome{
+color: #FFF;
+font-family: Merriweather;
+font-size: 64px;
+font-style: normal;
+font-weight: 900;
+line-height: 88px;
+letter-spacing: 7.04px;
+padding: 0;
+width: 642px;
+
+}
+.middle-photo .dolal{
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Inter;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px;
+  width: 697px;
+}
